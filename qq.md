@@ -49,7 +49,7 @@ Respect who they are
 Being genuine and transparent when giving feedback 
 
 
-<h2>Do you have experience managing VP?
+<h2>Do you have experience managing VP?</h2>
 Our team structure did not have VP report to VP; Almost all audits I was AO for, I had VP in my team and gave them feedback.
 Key is to have clear role and responsibilities. Deal with disagreement differently diplomatically
 Lead by examples
